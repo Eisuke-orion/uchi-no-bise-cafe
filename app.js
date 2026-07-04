@@ -52,7 +52,7 @@ const translations = {
     accessStyleValue: "テイクアウトカフェ",
     mapCta: "Google マップで探す",
     accessAside: "Instagramフォローで特典キャンペーンを実施する場合があります。実施状況は店頭掲示またはInstagramをご確認ください。",
-    menuImage: "assets/menu-ja.png",
+    menuImage: "assets/menu.jpg",
     menuAlt: "ウチの備瀬カフェの日本語メニュー表"
   },
   en: {
